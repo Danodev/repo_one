@@ -27,11 +27,9 @@ if($response ne 'ERROR') {
 	print "Error happended";
 }
 
-
 # End the work
 print "Complete...\n";
-
-
+print "Complete...\n";
 
 # Subroutines
 sub getURLResponse {
