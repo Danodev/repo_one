@@ -30,6 +30,7 @@ if($response ne 'ERROR') {
 # End the work
 print "Complete...\n";
 print "Complete...\n";
+print "Complete...\n";
 
 # Subroutines
 sub getURLResponse {
